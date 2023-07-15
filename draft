@@ -1,0 +1,4 @@
+geonames_url=https://secure.geonames.org/searchJSON?q=london&maxRows=1&username=menoo20
+
+//you have to encodeURI the location coming from the eventListener or storage or whatever
+let location = encodeURI(localStorage.getItem("location"));
