@@ -7,9 +7,16 @@
 </head>
 <body>
     <form onsubmit="return Client.handleSubmit(event)">
-     <label for="city">city</label>
-     <input type="text" name="city" id="city">
-     <input type="submit">
+    <div>
+        <label for="city">City</label>
+        <input type="text" name="city" id="city" placeholder="City name">
+    </div>
+    <div>
+        <label for="flightDate">Date</label>
+        <input type="date" name="date" class="flightDate" id="flightDate" placeholder="Enter flight date">
+    </div>
+
+     <input type="submit" method="POST">
     </form>
 </body>
 </html>
