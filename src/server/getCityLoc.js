@@ -6,7 +6,7 @@ const getCityLoc = async(city, username) => {
     
     if(!data.geonames.length){
         const errMsg = {
-            message: "no city with that name. please make sure of your spelling",
+            message: "No city with that name. Please make sure of your spelling",
             error: true
         }
         return errMsg

@@ -10,3 +10,6 @@ pixabay_url = `https://pixabay.com/api/?key=${key}&q=${city}&image_type=photo`
 
 largeImageURL
 
+async function getPicture() {
+    const pKey = process.env.PIXABAY_KEY;
+    let location = encodeURI(localStorage.getItem("location"))
