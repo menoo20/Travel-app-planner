@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=500px src="./ProjPic.png.png" alt="Project logo"></a>
+ <img width=700px src="./ProjPic.png.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">test-webpack</h3>
@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/menoo20/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/menoo20/The-Documentation-Compendium.svg)](https://github.com/menoo20/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/menoo20/Travel-app-planner.svg)](https://github.com/menoo20/Travel-app-planner/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/menoo20/Travel-app-planner.svg)](https://github.com/menoo20/Travel-app-planner/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -25,7 +25,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Built Using](#built_using)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
